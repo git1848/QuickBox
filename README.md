@@ -1,6 +1,8 @@
 QuickBox(快捷方式管理器)
 ===================
 
+![enter image description here](https://github.com/viewergit/QuickBox/blob/master/ReadMe/Box.ico?raw=true)
+
 
 这是一个windows平台下面的快捷启动、快捷方式管理、热键管理软件，网上有很多这样的软件（音速启动、小Q桌面等）
 
